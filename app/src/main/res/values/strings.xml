@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">HomeLane</string>
+    <string name="title">Title</string>
+    <string name="your_note">Your Note</string>
+    <string name="add_note">Add Note</string>
+    <string name="enter_valid_title">Please give a title to your note to continue</string>
+    <string name="enter_note_content">Please write a note to continue</string>
+    <string name="select_image_from">Select image from</string>
+    <string name="error_clicking_image">There is a problem in clicking image. Please try again. %1$s</string>
+    <string name="give_camera_permission">Please give camera permissions to attach images</string>
+    <string name="give_document_permission">Please give Manage Documents permissions to view images</string>
+    <string name="saving_note">Saving your note. Please wait.</string>
+    <string name="note_saved_successfully">Your note has been saved successfully</string>
+    <string name="fetching_notes">Fetching your notes. Please wait.</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="note_deleted_successfully">Your note has been deleted successfully</string>
+    <string name="update">Update</string>
+</resources>
